@@ -2,7 +2,7 @@
 
 set -e
 
-export DEVICE=oneplus2
+export DEVICE=lettuce
 export VENDOR=oneplus
 
 function extract() {

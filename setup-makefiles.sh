@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEVICE=oneplus2
+DEVICE=lettuce
 VENDOR=oneplus
 
 OUTDIR=vendor/$VENDOR/$DEVICE

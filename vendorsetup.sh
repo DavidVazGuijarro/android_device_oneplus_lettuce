@@ -1,2 +1,2 @@
-add_lunch_combo cm_oneplus2-eng
-add_lunch_combo cm_oneplus2-userdebug
+add_lunch_combo cm_lettuce-eng
+add_lunch_combo cm_lettuce-userdebug
