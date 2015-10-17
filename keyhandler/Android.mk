@@ -1,6 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),oneplus2)
+ifeq ($(TARGET_DEVICE),lettuce)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := com.cyanogenmod.keyhandler
